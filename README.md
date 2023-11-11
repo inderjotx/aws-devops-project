@@ -41,11 +41,28 @@ We will use :
               IdentityFile ~/.ssh/id_rsa
 
           ```
-     13. Now we can connect to this repo
+     13. Now we can connect to this repo 
      14. Run this command now
           ```
           git clone <ssh key url>
           ```
+     15. Now copy all the content my git repository  to  your git repository
+     16. and do a git push
+  
+  ---
+  ## 2. Testing and Building the Image using Code Build
 
+  1. Click on build project
+  2. And copy these configuration options
+     ![image](https://github.com/inderharrysingh/aws-devops-project/assets/112561014/e096de5b-41c0-476d-b63b-254cda1a6b7b)
+     ![image](https://github.com/inderharrysingh/aws-devops-project/assets/112561014/566fe040-8b7e-4958-84e3-6dfc4a55d5ef)
+     ![image](https://github.com/inderharrysingh/aws-devops-project/assets/112561014/d30308a5-28c9-49e3-9b17-d7df91066fef)
+     ![image](https://github.com/inderharrysingh/aws-devops-project/assets/112561014/658930d2-d25e-498f-a270-846281cd1627)
+  3. Click on create  build project.
+
+  
      
 
+
+  
+  
