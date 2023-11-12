@@ -1,0 +1,2 @@
+
+docker run -d --name=netflix  -p 8080:80  inderharrysingh/netflix-react-app:latest 

@@ -1,0 +1,3 @@
+docker stop netflix
+docker rm netflix
+docker image rm inderharrysingh/netflix-react-app:latest 
