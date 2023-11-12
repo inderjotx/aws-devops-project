@@ -1,4 +1,6 @@
 # aws-devops-project
+![image](https://github.com/inderharrysingh/aws-devops-project/assets/112561014/f750e2a2-f455-4b4d-bf47-a8969fa67792)
+
 
 > ### As part of this project we will create a CI/CD pipeline using AWS tools and deploy Netflix Application on EC2 Instance . 
 We will use :
