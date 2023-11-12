@@ -1,6 +1,6 @@
 # aws-devops-project
 
-## As part of this project we will create a CI/CD pipeline using AWS tools and deploy Netflix Application on EC2 Instance . 
+> ### As part of this project we will create a CI/CD pipeline using AWS tools and deploy Netflix Application on EC2 Instance . 
 We will use :
 1. `CodeCommit` : For Source Code Management
 2. `CodeBuild` : For Building and testing our code in serverless fashion
