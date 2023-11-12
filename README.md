@@ -1,5 +1,7 @@
 # AWS-DevOps-Project
-![image](https://github.com/inderharrysingh/aws-devops-project/assets/112561014/fe90e7c3-2ad7-49d2-9499-c30e4a30aac8)
+
+![image](https://github.com/inderharrysingh/aws-devops-project/assets/112561014/3598abe3-227e-48a3-94d8-7dc6241d8d0a)
+
 
 
 
